@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "castle-firstPlayable", "castle-firstPlayable.csproj", "{A3DF8CDE-8DFF-1EA2-8754-A34A8A4C3845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "castle-firstPlayable.Plugins", "castle-firstPlayable.Plugins.csproj", "{9834F275-8777-2D17-589B-30BEC7514206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "castle-firstPlayable.Editor", "castle-firstPlayable.Editor.csproj", "{D5C23F76-0570-77B4-1746-C4E386E135F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DF8CDE-8DFF-1EA2-8754-A34A8A4C3845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DF8CDE-8DFF-1EA2-8754-A34A8A4C3845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DF8CDE-8DFF-1EA2-8754-A34A8A4C3845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DF8CDE-8DFF-1EA2-8754-A34A8A4C3845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9834F275-8777-2D17-589B-30BEC7514206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9834F275-8777-2D17-589B-30BEC7514206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9834F275-8777-2D17-589B-30BEC7514206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9834F275-8777-2D17-589B-30BEC7514206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C23F76-0570-77B4-1746-C4E386E135F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C23F76-0570-77B4-1746-C4E386E135F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C23F76-0570-77B4-1746-C4E386E135F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C23F76-0570-77B4-1746-C4E386E135F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
